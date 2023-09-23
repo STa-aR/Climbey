@@ -1,0 +1,5 @@
+C:\Users\xxyos\source\repos\Climbey\Climbey\obj\Debug\netstandard2.0\Climbey.csproj.AssemblyReference.cache
+C:\Users\xxyos\source\repos\Climbey\Climbey\obj\Debug\netstandard2.0\Climbey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xxyos\source\repos\Climbey\Climbey\obj\Debug\netstandard2.0\Climbey.AssemblyInfoInputs.cache
+C:\Users\xxyos\source\repos\Climbey\Climbey\obj\Debug\netstandard2.0\Climbey.AssemblyInfo.cs
+C:\Users\xxyos\source\repos\Climbey\Climbey\obj\Debug\netstandard2.0\Climbey.csproj.CoreCompileInputs.cache
